@@ -4,8 +4,8 @@ gem "sinatra", "~>1.4.7"
 gem "sinatra-contrib"
 gem "erubis"
 
-ruby "3.0.0"
+# ruby "3.0.0"
 
-group :production do
-  gem "puma"
-end
+# group :production do
+#   gem "puma"
+# end
